@@ -1,4 +1,4 @@
-# Temaplate for .vimrc
+# Template for .vimrc
 This is the template for the vim .vimrc.
 ## Prerequisit
 ### Install plugins
