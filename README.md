@@ -1,4 +1,4 @@
-# Temaplte for .vimrc
+# Temaplate for .vimrc
 This is the template for the vim .vimrc.
 
 ## How to use
