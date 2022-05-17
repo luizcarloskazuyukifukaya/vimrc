@@ -1,6 +1,6 @@
 # Template for .vimrc
 This is the template for the vim .vimrc.
-## Prerequisit
+## Prerequisites
 ### Install plugins
 ```
 git clone https://github.com/preservim/nerdtree.git ~/.vim/pack/vendor/start/nerdtree
