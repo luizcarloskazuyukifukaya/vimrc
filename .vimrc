@@ -129,3 +129,5 @@ set number relativenumber
 
 set autoindent
 
+" Do not show keystrokes
+set noshowcmd
