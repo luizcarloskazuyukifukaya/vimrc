@@ -13,3 +13,7 @@ copy .vimrc to ~/.vimrc.
 ## Start vim
 > vim [filename]
 
+## Remarks
+* SET NOSHOWCMD is set to make sure the keystrokes are not shown and not
+  causing issue.
+
